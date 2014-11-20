@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>ACKeyboard.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
@@ -18,6 +23,11 @@
 			<true/>
 		</dict>
 		<key>2753C0D81A1BDDAD00A557E9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2753C0EC1A1BDE8300A557E9</key>
 		<dict>
 			<key>primary</key>
 			<true/>
